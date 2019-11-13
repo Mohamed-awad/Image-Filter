@@ -13,11 +13,11 @@ Example: `http://Image-Filter-dev22.us-west-2.elasticbeanstalk.com/filteredimage
 
 ## application launched
 
-![alt text](https://github.com/Mohamed-awad/game_Zaza_js_ITI/blob/master/screens/game_inside.jpg)
+![alt text](https://github.com/Mohamed-awad/Image-Filter/blob/master/images/deployment-success.png)
 
 ## Elastic BeanStalk Status
 
-![alt text](https://github.com/Mohamed-awad/game_Zaza_js_ITI/blob/master/screens/game_inside.jpg)
+![alt text](https://github.com/Mohamed-awad/Image-Filter/blob/master/images/elastic-beab-status.png)
 ## Tasks
 
 ### Setup Node Environment
