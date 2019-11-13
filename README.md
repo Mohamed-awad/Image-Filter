@@ -8,6 +8,16 @@
 
 Example: `http://Image-Filter-dev22.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg`
 
+
+# screen shoot 
+
+## application launched
+
+![alt text](https://github.com/Mohamed-awad/game_Zaza_js_ITI/blob/master/screens/game_inside.jpg)
+
+## Elastic BeanStalk Status
+
+![alt text](https://github.com/Mohamed-awad/game_Zaza_js_ITI/blob/master/screens/game_inside.jpg)
 ## Tasks
 
 ### Setup Node Environment
